@@ -1,4 +1,5 @@
-Important: File must be in plain text format
+This program will take in a text file (file must be in plain text format) and output information about the text (word count, frequency of words, frequency of word lengths, unique words)
+
 
 Instructions:
 
